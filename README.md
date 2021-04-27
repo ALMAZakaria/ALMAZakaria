@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ALMAZakaria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ALMAZakaria/ALMAZakaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ALMAZakaria.
+- 👀 I’m interested in UX/UI design & Front-end development.
+- 🌱 I’m currently learning VueJS.
+- 💞️ I’m looking for a new opportunity to show up my skills.
+- 📫 How to reach me ? : zakariaalma.business@gmail.com OR https://www.linkedin.com/in/zakaria-alma-b34932175
