@@ -8,4 +8,4 @@
 
 -💞️ I’m always open to new opportunities to show up my skills.
 
--📫 How to reach me ? : zakariaalma.business@gmail.com OR +212 668 932 090
+-📫 How to reach me out? : zakariaalma.business@gmail.com OR +212 668 932 090
