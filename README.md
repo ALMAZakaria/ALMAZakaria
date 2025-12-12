@@ -1,8 +1,8 @@
--👋 Hi,My name's @ALMAZakaria.
+👋 Hi,My name's @ALMAZakaria.
 
--👀 I’m interested in web development, ReactJS/NextJS, NodeJs/ExpressJS..
-*Front-end Designer & Developer (Figma, Adobe XD, HTML, CSS, JS, React.Js/Next.JS, Vue.js, PHP, LARAVEL, JAVA, JEE).
+👀 I’m interested in web development, ReactJS/NextJS, NodeJs/ExpressJS..
+*Front-end Designer & Developer (Figma, Adobe XD, HTML, CSS, JS, React.Js/Next.JS, Vue.js, PHP, LARAVEL,C#/ .NET core, JAVA, JEE).
 
-- I’m always open to new opportunities to show up my skills
+I’m always open to new opportunities to show up my skills
 
--📫 How to reach me out? : zakariaalma.business@gmail.com OR +212 668 932 090
+📫 How to reach me out? : zakariaalma.business@gmail.com OR +212 668 932 090
