@@ -1,4 +1,4 @@
-👋 Hi, I’m Zakaria Almaz
+👋 Hi, I’m Zakaria ALMA
 
 🚀 Full-Stack Developer passionate about building modern, scalable web applications.
 
