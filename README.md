@@ -8,37 +8,37 @@ Web Development
 
 Front-End: React.js / Next.js / Vue.js
 
-Back-End: Node.js / Express.js / ASP.NET Core
+Back-End: ASP.NET Core /  Node.js / Express.js 
 
 🛠 Tech Stack
 
-Design
+  Design
 
-Figma, Adobe XD
+    Figma, Adobe XD
 
-Front-End
+  Front-End
 
-HTML, CSS, JavaScript
+    HTML, CSS, JavaScript
 
-React.js, Next.js, Vue.js
+    React.js, Next.js, Vue.js
 
-Back-End
+  Back-End
 
-Node.js, Express.js
+    Node.js, Express.js
 
-PHP, Laravel
+    PHP, Laravel
 
-C#, ASP.NET Core
+    C#, ASP.NET Core
 
-Java, JEE
+    Java, JEE
 
 💡 What Drives Me
 
-Writing clean, maintainable code
+  Writing clean, maintainable code
 
-Turning ideas into real-world solutions
+  Turning ideas into real-world solutions
 
-Constantly learning new technologies
+  Constantly learning new technologies
 
 🤝 Open to Opportunities
 
