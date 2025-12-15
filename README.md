@@ -1,8 +1,51 @@
-👋 Hi,My name's @ALMAZakaria.
+👋 Hi, I’m Zakaria Almaz
 
-👀 I’m interested in web development, ReactJS/NextJS, NodeJs/ExpressJS..
-*Front-end Designer & Developer (Figma, Adobe XD, HTML, CSS, JS, React.Js/Next.JS, Vue.js, PHP, LARAVEL,C#/ .NET core, JAVA, JEE).
+🚀 Full-Stack Developer passionate about building modern, scalable web applications.
 
-I’m always open to new opportunities to show up my skills
+👀 Interests & Focus
 
-📫 How to reach me out? : zakariaalma.business@gmail.com OR +212 668 932 090
+Web Development
+
+Front-End: React.js / Next.js / Vue.js
+
+Back-End: Node.js / Express.js / ASP.NET Core
+
+🛠 Tech Stack
+
+Design
+
+Figma, Adobe XD
+
+Front-End
+
+HTML, CSS, JavaScript
+
+React.js, Next.js, Vue.js
+
+Back-End
+
+Node.js, Express.js
+
+PHP, Laravel
+
+C#, ASP.NET Core
+
+Java, JEE
+
+💡 What Drives Me
+
+Writing clean, maintainable code
+
+Turning ideas into real-world solutions
+
+Constantly learning new technologies
+
+🤝 Open to Opportunities
+
+I’m always open to new opportunities where I can grow, collaborate, and showcase my skills.
+
+📫 Contact Me
+
+📧 Email: zakariaalma.business@gmail.com
+
+📞 Phone: +212 668 932 090
