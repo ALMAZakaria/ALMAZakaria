@@ -4,11 +4,11 @@
 
 👀 Interests & Focus
 
-Web Development
+FULL-STACK Development
 
-Front-End: React.js / Next.js / Vue.js
+  Front-End: React.js / Next.js / Vue.js
 
-Back-End: ASP.NET Core /  Node.js / Express.js 
+  Back-End: ASP.NET Core /  Node.js / Express.js 
 
 🛠 Tech Stack
 
